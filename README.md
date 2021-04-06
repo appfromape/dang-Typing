@@ -1,3 +1,3 @@
 # dang-Typing
 
-![image]()
+![image](https://github.com/appfromape/dang-Typing/blob/master/1.png)
